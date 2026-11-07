@@ -1,0 +1,4 @@
+.env
+.venv/
+.idea/
+flight_cache_data.sqlite
